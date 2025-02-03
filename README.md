@@ -35,3 +35,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 This tool is for educational purposes only. The developers are not responsible for any misuse or any violations of e-commerce websites' terms of service.
 
 Email:yeswanthsoma83@gmail.com
+
+@YeswanthSoma ALl Copyrights Reserved
